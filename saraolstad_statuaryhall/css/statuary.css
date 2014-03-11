@@ -1,0 +1,239 @@
+/*#container {
+	background-image:url('');
+	} 
+*/
+.innertext {
+
+	font-family: 'PT Sans', sans-serif;
+	font-size: 12pt;
+	overflow: auto;
+}
+
+.title {
+	font-weight: bold;
+	font-size: 14pt;
+}
+
+.byline {
+	font-style: italic;
+}
+
+.sport {
+	font-size: 16pt;
+	font-family: 'Sansita One', cursive;
+}
+
+.pic {
+	width: 220px;
+}
+
+#01 {
+	font-size: 36pt;
+	font-family: 'Sansita One', cursive;
+	position: relative;
+	text-align: center;
+	z-index: 1;
+}
+
+.scroll {
+	height: 373px;
+	width: 130px;
+	overflow-y: scroll;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+}
+
+.scrollfix {
+	height: 373px;
+	width: 130px;
+	padding-left: 30px;
+}
+
+.arrowbox {
+	outline-color: black;
+	outline-style: solid;
+	outline-width: 1.5px;
+	padding-left: 5px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+.name {
+	color: orange;
+}
+
+#introimage {
+	height: 460px;
+}
+
+.imgvert {
+	height: 325px;
+	width: 216.6666666666666667px;
+	padding-top: 8px;
+}
+
+.imghoriz {
+	height: 213.333333333333px;
+	width: 320px;
+}
+
+.col1horiztab {
+	top: 200px;
+	position: absolute;
+}
+
+.col1horiztabnew {
+	top: 200px;
+	position: absolute;
+}
+
+.col1horiz {
+	width: 350px;
+	left: 195px;
+	position: absolute;
+	top: 173px;
+}
+
+.col1horiznew {
+	width: 350px;
+	left: 195px;
+	position: absolute;
+	top: 245px;
+}
+
+.arrow {
+	width: 14px;
+}
+
+.statename2 {
+	padding-bottom: 7px;
+}
+
+.col2horiz {
+	position: absolute;
+	width: 400px;
+	left: 570px;
+}
+
+.col1vert {
+	width: 385px;
+	left: 195px;
+	position: absolute;
+	top: 173px;
+}
+
+.col1verttab {
+	top: 125px;
+	position: absolute;
+}
+
+.col2vert {
+	position: absolute;
+	width: 400px;
+	left: 620px;
+}
+
+.col2horiznew {
+	position: absolute;
+	width: 400px;
+	left: 570px;
+	top: 200px;
+}
+
+.col1vertnew {
+	width: 385px;
+	left: 195px;
+	position: absolute;
+	top: 245px;
+}
+
+.col1verttabnew {
+	top: 200px;
+	position: absolute;
+}
+
+.col2vertnew {
+	position: absolute;
+	width: 400px;
+	left: 620px;
+}
+
+.fullbox {
+	width: 700px;
+}
+
+h1 {
+	font-family: 'Roboto Slab', serif;
+	font-weight: 700;
+	font-size: 28px;
+	color: #8a1f1d;
+	padding-left: 29px;
+}
+
+.statename {
+	color: black;
+}
+
+.statename:hover {
+	text-decoration:underline;
+	color: #8b4b1e;
+}
+
+h2 {
+	font-family: 'Roboto Slab', serif;
+	font-weight: 400;
+}
+
+h3 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+	line-height: 20px;
+}
+
+#courtesy {
+	font-family: 'Roboto', sans-serif;
+}
+
+.life {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+	font-size: 18px;
+	vertical-align: middle;
+}
+
+.bio {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+	vertical-align: middle;
+}
+
+.name {
+	font-family: 'Roboto Slab', serif;
+	font-weight: 300;
+}
+
+.statueinfo {
+	font-size: 12px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	width: 216.6666666666666667px;
+	
+}
+
+.statueinfohoriz {
+	font-size: 12px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	width: 320px;
+	
+}
+
+.arrowbig {
+	height: 17px;
+}
+
+
+
+
